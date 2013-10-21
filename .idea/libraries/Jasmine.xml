@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Jasmine" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="jQuery" />
+      <option name="frameworkVersion" value="1.2.6" />
+      <sourceFilesUrls>
+        <item url="file://C:/src/downloaded/javascript/jasmine-standalone-1.3.0/lib/jasmine-1.3.0/jasmine.js" />
+        <item url="file://C:/src/downloaded/javascript/jasmine-standalone-1.3.0/lib/jasmine-1.3.0/jasmine-html.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://C:/src/downloaded/javascript/jasmine-standalone-1.3.0/lib/jasmine-1.3.0/jasmine.js" />
+      <root url="file://C:/src/downloaded/javascript/jasmine-standalone-1.3.0/lib/jasmine-1.3.0/jasmine-html.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
